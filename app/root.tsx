@@ -2,7 +2,6 @@ import type { LinksFunction } from '@remix-run/node';
 import { Links, LiveReload, Meta, Outlet, Scripts, ScrollRestoration } from '@remix-run/react';
 
 import styles from '~/styles/globals.css';
-import { Button } from '@shadcn-ui/components';
 
 export const links: LinksFunction = () => [{ rel: 'stylesheet', href: styles }];
 
