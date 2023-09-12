@@ -9,7 +9,7 @@ export default function App() {
     return (
         <html lang="en">
             <head>
-                <Meta  />
+                <Meta />
                 <Links />
             </head>
             <body className="">
