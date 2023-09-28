@@ -47,8 +47,8 @@ devDependencies:
     specifier: ^1.18.0
     version: 1.18.0(@remix-run/serve@1.18.0)(@types/node@20.2.5)
   '@remix-run/eslint-config':
-    specifier: ^1.18.0
-    version: 1.18.0(eslint@8.41.0)(jest@29.0.1)(react@18.2.0)(typescript@5.0.4)
+    specifier: ^1.19.3
+    version: 1.19.3(eslint@8.41.0)(jest@29.0.1)(react@18.2.0)(typescript@5.0.4)
   '@remix-run/serve':
     specifier: ^1.18.0
     version: 1.18.0
@@ -2435,8 +2435,8 @@ packages:
       - utf-8-validate
     dev: true
 
-  /@remix-run/eslint-config@1.18.0(eslint@8.41.0)(jest@29.0.1)(react@18.2.0)(typescript@5.0.4):
-    resolution: {integrity: sha512-QOHGfHG8AbXnEFXMUIjPYNcN/Z4EGZ9AR6vBrZ2k5fV1m0YhxbR9Y0OXHkHn/T9F2ek7sAHmuuVF66ppNn2mjQ==}
+  /@remix-run/eslint-config@1.19.3(eslint@8.41.0)(jest@29.0.1)(react@18.2.0)(typescript@5.0.4):
+    resolution: {integrity: sha512-8yvPtsJj1hBKp6ypTTDhHmJ2ftoPmBV1xPPOIqhMLDQ1fwmzocwnkz9RHTeMYkdNSzUuqGnpGaMTHgrT3WfckQ==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     peerDependencies:
       eslint: ^8.0.0
@@ -5870,7 +5870,7 @@ packages:
       '@types/glob': 7.2.0
       array-union: 2.1.0
       dir-glob: 3.0.1
-      fast-glob: 3.2.11
+      fast-glob: 3.2.12
       glob: 7.2.3
       ignore: 5.2.4
       merge2: 1.4.1
